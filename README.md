@@ -305,9 +305,15 @@ git push origin feature-name
 
 ---
 
-## 📄 License
+## License
 
-This project is developed for educational and research purposes.
+Copyright © 2026 Manikandan S. All Rights Reserved.
+
+Twitter Emotion Analysis is available for viewing, personal learning, educational reference, and note-taking only. Copying, modifying, redistributing, or commercially using the original source code and project materials without prior written permission is prohibited.
+
+Third-party libraries, datasets, APIs, and social media content remain subject to their respective licenses, terms, and applicable laws.
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
